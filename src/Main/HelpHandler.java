@@ -1,8 +1,7 @@
 package Main;
 
-//wefhwiqfuh
 public class HelpHandler {
     public HelpHandler() {
-
+        System.out.println("Hello world");
     }
 }
